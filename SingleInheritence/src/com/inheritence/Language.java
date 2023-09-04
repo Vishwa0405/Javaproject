@@ -12,7 +12,7 @@ public class Language {
 	public void hindiLanguage()
 	{
 		System.out.println ("Hindi");
-		
+	System.out.println("India");	
 	}
 	
 	public static void main(String[]args){
